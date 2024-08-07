@@ -61,12 +61,12 @@ Stakeholders can evaluate the overall effect of workplace perceptions on employe
 This analysis of attrition by gender and marital status at Synergy Enterprise sheds light on employee turnover across different demographic groups. 
 Using a clustered column chart, the breakdown of attrition numbers reveals: 
 
-• Divorced Males: 24 
-• Married Males: 53 
-• Single Males: 73 
-• Divorced Females: 9 
-• Married Females: 31 
-• Single Females: 47 
+- Divorced Males: 24 
+- Married Males: 53 
+- Single Males: 73 
+- Divorced Females: 9 
+- Married Females: 31 
+- Single Females: 47 
 
 Stakeholders can quickly see any notable differences or trends in attrition rates depending on gender and marital status by comparing attrition figures side by side using this visualization method. Indicating a possible area of worry or a chance to investigate turnover issues within this demography, the chart can, for instance, show that single males have the highest number of attrition instances. Gender-specific retention issues can be better understood by comparing the attrition rates of men and women within each category of marital status. 
 
@@ -83,10 +83,11 @@ This visualization will allow stakeholders to compare the distribution of employ
 ## Percentage of Active Employees by Environmental Satisfaction Level
 
 The chart in figure 11 below displays the distribution of active employees by their environmental satisfaction levels at Synergy Enterprise: 
-•	High Satisfaction: 32% 
-•	Very High Satisfaction: 31% 
-•	Medium Satisfaction: 20% 
-•	Low Satisfaction: 17% 
+-	High Satisfaction: 32% 
+-	Very High Satisfaction: 31% 
+-	Medium Satisfaction: 20% 
+-	Low Satisfaction: 17%
+  
 Using a pie chart for visualization is justified because it allows for clear comparison, summarized representation, visual emphasis, and highlighting key insights. This chart effectively communicates the distribution of employees across satisfaction levels, aiding in decision-making for enhancing employee satisfaction and engagement. 
 
 ## Active Employee by Work-life Balance Level
